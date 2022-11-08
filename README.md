@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-# Proyecto-MesaU
-Proyecto mesa de ayuda delimitado para universidad
-=======
-### Hi there 👋
 
+Proyecto mesa de ayuda delimitado para universidad
 <!--
 **Alejosmurf03/Alejosmurf03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,4 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
->>>>>>> 6958e40211fe40e67fae4e0656eef1ccc5672c5f
